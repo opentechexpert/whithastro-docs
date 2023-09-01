@@ -24,7 +24,8 @@
 				"usernamehw.errorlens",
 				"ms-azuretools.vscode-docker",
 				"GitHub.vscode-codeql",
-				"DanielSanMedium.dscodegpt"
+				"DanielSanMedium.dscodegpt",
+				"astro-build.houston"
 			]
 		}
 	}

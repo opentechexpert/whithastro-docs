@@ -7,6 +7,26 @@
 	"features": {
 		"ghcr.io/devcontainers-contrib/features/zsh-plugins:0": {},
 		"ghcr.io/devcontainers/features/desktop-lite:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"astro-build.astro-vscode",
+				"dbaeumer.vscode-eslint",
+				"christian-kohler.npm-intellisense",
+				"DavidAnson.vscode-markdownlint",
+				"ms-vsliveshare.vsliveshare",
+				"ritwickdey.LiveServer",
+				"VisualStudioExptTeam.vscodeintellicode-completions",
+				"VisualStudioExptTeam.vscodeintellicode",
+				"eamodio.gitlens",
+				"github.vscode-github-actions",
+				"usernamehw.errorlens",
+				"ms-azuretools.vscode-docker",
+				"GitHub.vscode-codeql",
+				"DanielSanMedium.dscodegpt"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
